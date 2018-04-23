@@ -1,5 +1,0 @@
-def Bark():
-	print(woof)
-
-main():
-	Bark()
